@@ -6,7 +6,7 @@
 This is the first collaborative project in Holberton School. In this code, Tammy and I will be using printf to say "Free of CMU"  Below we will show how ``` printf ``` works.
 
 
-## How to use ``` printf ```
+### How to use ``` printf ```
 To use the ``` printf ``` function you need to compile all of your ```.c``` files including the ```main.h```. To do so you would use:
 
 ```$ gcc *.c *.h -o```
@@ -38,11 +38,9 @@ $
 
 
 
-
-
 ### Authors
 Teylor Chapman-Bilbee :cherry_blossom:
 * [teylorchapman](https://github.com/teylorchapman)
 
-Tammy Junk :first_quart_moon_with_face:
+Tammy Junk :first_quarter_moon_with_face:
 * [Tamtam929](https://github.com/Tamtam929)
