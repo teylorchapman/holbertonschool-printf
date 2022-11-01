@@ -11,6 +11,7 @@ To use the ``` printf ``` function you need to compile all of your ```.c``` file
 
 ```$ gcc *.c *.h -o```
 
+
 #### Example ```main.c```:
 
 ```
@@ -21,14 +22,23 @@ int main(void)
     _printf("Free of CMU");
         return (0);
 	}
-	```
-	#### Output:
+```
+
+
+
+
+#### Output:
 
 ```
 $ ./test
 Free of CMU
 $
 ```
+
+
+
+
+
 
 ### Authors
 Teylor Chapman-Bilbee :cherry_blossom:
