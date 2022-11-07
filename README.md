@@ -3,7 +3,7 @@
 <h2 align="center"> :sparkles: Collaboration with Tammy Junk :sparkles: </h2>
 
 
-This is the first collaborative project in Holberton School. In this code, Tammy and I will be using printf to say "Hello World!"  Below we will show how ``` printf ``` works.
+This is the first collaborative project in Holberton School. In this code, Tammy and I will be using printf to say "Hello World"  Below we will show how ``` printf ``` works.
 
 
 ### How to use ``` printf ```
@@ -19,7 +19,7 @@ To use the ``` printf ``` function you need to compile all of your ```.c``` file
 
 int main(void)
 {
-    _printf("Hello World!");
+    _printf("Hello World");
         return (0);
 }
 ```
@@ -31,7 +31,7 @@ int main(void)
 
 ```
 $ ./test
-Hello World!
+Hello World
 $
 ```
 
